@@ -8,11 +8,11 @@ Just open index.html in any browser. No installations needed.
 
 # Button                         Action
 
-▶ Start Simulation            Dispatches the ambulance
+▶ Start Simulation --->           Dispatches the ambulance
 
-⚠ Add Traffic                 Adds a new vehicle to the road
+⚠ Add Traffic--->                 Adds a new vehicle to the road
 
-↺ Reset                       Restarts the simulation
+↺ Reset-->                       Restarts the simulation
 
 # What Happens
 
