@@ -5,9 +5,13 @@ A browser-based traffic simulation that shows how emergency vehicles can reach t
 Just open index.html in any browser. No installations needed.
 
 # Controls
-Button                         Action
+
+# Button                         Action
+
 ▶ Start Simulation            Dispatches the ambulance
+
 ⚠ Add Traffic                 Adds a new vehicle to the road
+
 ↺ Reset                       Restarts the simulation
 
 # What Happens
