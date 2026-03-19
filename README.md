@@ -6,7 +6,7 @@ Just open index.html in any browser. No installations needed.
 
 # Controls
 
-# Button                         Action
+ Button                         Action
 
 ▶ Start Simulation --->           Dispatches the ambulance
 
