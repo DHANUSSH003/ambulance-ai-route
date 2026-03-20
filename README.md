@@ -27,7 +27,7 @@ Reaches the  hospital at full speed
 # Built With
 HTML · CSS · JavaScript — no frameworks, no libraries.
 
-# pictures
+# pictures for demonstration
 
 <img width="1917" height="1087" alt="image" src="https://github.com/user-attachments/assets/143dcbe3-38dd-4579-88eb-b914652e614b" />
 
